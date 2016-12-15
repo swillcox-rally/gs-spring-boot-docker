@@ -4,7 +4,7 @@ dependencies:
 
 test:
  override:
-   - ./gradlew clean build -i
+   - ./complete/gradlew clean build -i
  pre:
 #   - echo $BINTRAY_USER > gradle.properties
 #   - echo $BINTRAY_API_KEY >> gradle.properties
