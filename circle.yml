@@ -1,6 +1,6 @@
 dependencies:
-  cache_directories:
-    - "~/.gradle"
+#  cache_directories:
+#    - "~/.gradle"
 
 test:
  override:
